@@ -18,7 +18,8 @@ Ce projet est une implémentation simple du jeu Tic-Tac-Toe (XO) en Java. Le jeu
 
 ## Exemple de capture d'écran
 
-![Capture d'écran du jeu XO en Java](scree.png)
+![image](https://github.com/marzouki-mohammed/JEUX-XO/assets/168875780/a474860f-89ac-40a9-904b-e552dee5de7b)
+
 
 ## Auteur
 
