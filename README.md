@@ -1,5 +1,5 @@
   # Jeu XO (Tic-Tac-Toe) en Java
-
+  ## la totalité de code dans la branche master
 Ce projet est une implémentation simple du jeu Tic-Tac-Toe (XO) en Java. Le jeu se joue sur une grille 3x3 où deux joueurs s'affrontent pour placer leurs symboles (X ou O) dans une rangée, une colonne ou en diagonale.
 
 ## Comment jouer
